@@ -16,7 +16,7 @@
                     {
                         "value": "Creator / Features",
                         "description": "Who is my Creator? / What are my Features?",
-                        "replymsg": "<:Milrato:840259659163893820> **__Milrato Development__ made me!**\n> <:Like:857334024087011378> **Their Website:** https://milrato.eu\n> <:Discord:787321652345438228> **Their Discord:** https://discord.gg/milrato\n``` ```***__You can join their Discord Server and get yourself a Bot like me, for FREE/CHEAP!__***\n``` ```:muscle: **__My Features__**\n>>> **68+ Systems**, like: <:twitter:840255600851812393> **Twitter-** & <:Youtube:840260133686870036> **Youtube-Auto-Poster** \n**Application-**, Ticket-, **Welcome-Images-** and Reaction Role-, ... Systems\n:notes: An advanced <:Spotify:846090652231663647> **Music System** with **Audio Filtering**\n:video_game: Many **Minigames** and :joystick: **Fun** Commands (150+)\n:no_entry_sign: **Administration** and **Auto-Moderation** and way much more!\n\n**The Developer is: `Tomato#6966` <:TOMATO:858450817665204224>, Contact him if you wanna hire him!**",
+                        "replymsg": "<:Milrato:840259659163893820> **__Deadly__ made me!**\n><:Discord:787321652345438228> **Their Discord:** https://discord.gg/milrato\n``` ```***__You can join their Discord Server and get yourself a Bot like me, for FREE/CHEAP!__***\n``` ```:muscle: **__My Features__**\n>>> **68+ Systems**, like: <:twitter:840255600851812393> **Twitter-** & <:Youtube:840260133686870036> **Youtube-Auto-Poster** \n**Application-**, Ticket-, **Welcome-Images-** and Reaction Role-, ... Systems\n:notes: An advanced <:Spotify:846090652231663647> **Music System** with **Audio Filtering**\n:video_game: Many **Minigames** and :joystick: **Fun** Commands (150+)\n:no_entry_sign: **Administration** and **Auto-Moderation** and way much more!\n\n**The Developer is: `EaGLe†ᴰᴱᴬᴰᴸᵞ` <:emoji_1:959407637378785290> , Contact him if you wanna want your bot dm him!**",
                         "emoji": "840259659163893820"
                     },
                     {
@@ -32,15 +32,21 @@
                         "emoji": "❓"
                     },
                     {
+                        "value": "Sponsor / Support us",
+                        "description": "Thanks for everything, you'll get something back!",
+                        "replymsg": "Not Available",
+                        "emoji": "861207258846330880"
+                    },
+                    {
                         "value": "Partners / Sponsors",
                         "description": "We are really proud of our Sponsors and Partners!",
-                        "replymsg": "<:BeroHost:852970925695041646> Our First/Main Sponsor is [Deadly](https://discord.com/invite/sBKcF7jH9X)",
+                        "replymsg": "**Deadly** The Communtiy Server which  have many giveaway and invite rewards<:arrow:832598861813776394> THEY HAVE A MUSIC BOT TOO [SMOOTH](https://discord.com/oauth2/authorize?client_id=954232308876062760&permissions=139858406496&scope=bot%20applications.commands)<:arrow:832598861813776394> Thanks to them, we are able to host and make our bot<:arrow:832598861813776394> Our suggestion is, if you want to make your bot, then go to [Deadly](https://discord.com/invite/sBKcF7jH9X)**What they are offering:**<:arrow:832598861813776394> **>>** MUSIC BOTS , MOD BOT , MOD MAIL and MORE[**Discord Server:**](https://discord.com/invite/sBKcF7jH9X)"
                         "emoji": "866089513436315698"
                     },
                     {
                         "value": "My Bot doesnt work",
                         "description": "If your Bot is not working do this:",
-                        "replymsg": "Contact us in Deadly <:Discord:787321652345438228> **Discord:** https://discord.com/invite/sBKcF7jH9X and Tag <@>",
+                        "replymsg": "Contact us in Deadly <:Discord:787321652345438228> **Discord:** https://discord.gg/sBKcF7jH9X and Tag <@894934313903210507>\n\n***If it still responds with messages but doesn't work right, then you can try to do: `{prefix}reloadbot` / `{prefix}cmdreload [CMDNAME]`***\n\nMake sure that I have enough Permissions, as well as that the highest Role is high enough!",
                         "emoji": "😓"
                     },
                     {
@@ -70,7 +76,7 @@
                 },
                 "field5": {
                     "title": "<:arrow:832598861813776394> Important Links",
-                    "value": "**[Invite Link]({invitelink})・[Support Server](https://discord.gg/sBKcF7jH9X)・[Invite Public Version](https://discord.com/oauth2/authorize?client_id=954232308876062760&permissions=139858406496&scope=bot%20applications.commands)**"
+                    "value": "**[Support Server](https://discord.gg/sBKcF7jH9X)**\n**[Public Bot](https://discord.com/oauth2/authorize?client_id=954232308876062760&permissions=139858406496&scope=bot%20applications.commands)・[Youtube](https://youtube.com/c/REFLEXESPORTSINDIA)**"
                 },
                 "variable1": "`\\`\\`\\`yml\\nName: ${client.user.tag} [${client.user.id}]\\nBot Latency: ${Math.round(Date.now() - message.createdTimestamp)}ms\\nApi Latency: ${Math.round(client.ws.ping)}ms\\nRuntime: ${duration(client.uptime).join(\"︲\")}\\`\\`\\``",
                 "variable2": "`\\`\\`\\` ${e.message ? e.message : e.stack ? String(e.stack).substr(0, 2000) : String(e).substr(0, 2000)}\\`\\`\\``"
@@ -80,12 +86,6 @@
                 "brightershade": "Brighter Shade",
                 "variable1": "\"Color Info\"",
                 "variable2": "`\\`\\`\\` ${e.message ? e.message : e.stack ? String(e.stack).substr(0, 2000) : String(e).substr(0, 2000)}\\`\\`\\``"
-            },
-            "commandcount": {
-                "tempmsg": "GETTING BOT INFORMATION DATA",
-                "title": ":gear: **[`{cmdcount}`] Commands**",
-                "description": ":gear: **[`{catcount}`] Categories**\n:gear: **[`{lines}`] Lines of Code**\n<a:Valid_Code_Developer:858405056238714930> **[`{letters}`] Letters of Code**",
-                "variable1": "`\\`\\`\\` ${e.message ? e.message : e.stack ? String(e.stack).substr(0, 2000) : String(e).substr(0, 2000)}\\`\\`\\``"
             },
             "developer": {
                 "buttons": {
