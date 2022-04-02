@@ -32,21 +32,15 @@
                         "emoji": "❓"
                     },
                     {
-                        "value": "Sponsor / Support us",
-                        "description": "Thanks for everything, you'll get something back!",
-                        "replymsg": "**__There are several Sponsor Options:__**\n\n> <:PAYPAL:861207258846330880> **Paypal:**\n> https://paypal.me/MilratoDevelopment\n\n> <:PATREON:861207934070816849> **Patreon:**\n> https://www.patreon.com/MilratoDevelopment?fan_landing=true\n\n> 💸 **Donate via Paysafe, Sofort or others: (1/2)**\n> https://bero-host.de/spenden/qgswlxrzgtll\n\n> 💸 **Donate via Paysafe, Sofort or others: (2/2)**\n> https://mc-host24.de/donate/tomato\n\n> **Every donator** gets the **@DONATOR Role** on:\n> https://discord.gg/milrato\n\n\n> **Every Donator** with more then **10€** Gets a **Free Bot** of his **Choice*!",
-                        "emoji": "861207258846330880"
-                    },
-                    {
                         "value": "Partners / Sponsors",
                         "description": "We are really proud of our Sponsors and Partners!",
-                        "replymsg": "<:BeroHost:852970925695041646> Our First/Main Sponsor is **Bero-Host.de** <:BeroHost:852970925695041646>\n> <:Like:857334024087011378> **Their Website:** https://bero-host.de\n> <:Discord:787321652345438228> **Their Discord:** https://discord.bero-host.de\n> *They provide us several HIGH QUALTIY __Servers__ which we are using for our HOSTING! **CHECK THEM OUT**!*\n``` ```<:Bittmax:840370610755862529> Our Second Sponsor is **Bittmax.de** <:Bittmax:840370610755862529>\n> <:Like:857334024087011378> **Their Website:** https://bittmax.de\n> <:Discord:787321652345438228> **Their Discord:** https://discord.gg/GgjJZCyYKD\n> *They provide us several __Servers__ which we are using for our PUBLIC BOT HOSTING! **CHECK THEM OUT**!*\n``` ```**__Partners__**\n> ***We currently have `{partnercount} Partners`, which get at least 1 FREE OP BOT***\n``` ```Wanna be a Partner/Sponsor too? Contact us in our <:Discord:787321652345438228> **Discord:** https://discord.gg/milrato and open a Ticket in <#840491251278676008>",
+                        "replymsg": "<:BeroHost:852970925695041646> Our First/Main Sponsor is [Deadly](https://discord.com/invite/sBKcF7jH9X)",
                         "emoji": "866089513436315698"
                     },
                     {
                         "value": "My Bot doesnt work",
                         "description": "If your Bot is not working do this:",
-                        "replymsg": "Contact us in Milrato Development <:Discord:787321652345438228> **Discord:** https://discord.gg/milrato and open a Ticket in <#840332764603351101>\n\n***If it still responds with messages but doesn't work right, then you can try to do: `{prefix}reloadbot` / `{prefix}cmdreload [CMDNAME]`***\n\nMake sure that I have enough Permissions, as well as that the highest Role is high enough!",
+                        "replymsg": "Contact us in Deadly <:Discord:787321652345438228> **Discord:** https://discord.com/invite/sBKcF7jH9X and Tag <@>",
                         "emoji": "😓"
                     },
                     {
@@ -76,7 +70,7 @@
                 },
                 "field5": {
                     "title": "<:arrow:832598861813776394> Important Links",
-                    "value": "**[Invite Link]({invitelink})・[Support Server](https://discord.gg/milrato)・[Website](https://milrato.eu)**\n**[Get Free Bots](https://discord.gg/milrato)・[Invite Public Version](https://discord.com/api/oauth2/authorize?client_id=734513783338434591&permissions=8&scope=bot)**"
+                    "value": "**[Invite Link]({invitelink})・[Support Server](https://discord.gg/sBKcF7jH9X)[Invite Public Version](https://discord.com/oauth2/authorize?client_id=954232308876062760&permissions=139858406496&scope=bot%20applications.commands)**"
                 },
                 "variable1": "`\\`\\`\\`yml\\nName: ${client.user.tag} [${client.user.id}]\\nBot Latency: ${Math.round(Date.now() - message.createdTimestamp)}ms\\nApi Latency: ${Math.round(client.ws.ping)}ms\\nRuntime: ${duration(client.uptime).join(\"︲\")}\\`\\`\\``",
                 "variable2": "`\\`\\`\\` ${e.message ? e.message : e.stack ? String(e.stack).substr(0, 2000) : String(e).substr(0, 2000)}\\`\\`\\``"
@@ -99,8 +93,8 @@
                     "dc": "Get yourself a own Bot",
                     "botlist": "Public Bot-List-Website"
                 },
-                "title": "Tomato#6966 | Dev of 4 Orgs | Developer of 1200+ BOTS",
-                "description": "<:arrow:832598861813776394> Hello I am **Tomato** <@442355791412854784> *(`Tomato#6966`)*, and i made more then 1200 different Discord Bots: [My Bot List](https://botlist.milrato.eu)\n\n<:arrow:832598861813776394> I am very proud for all of my verified and not verified Discord Bots, but the Bot I am the most proud of is: [**LAVA MUSIC** | `2021's Best Music Bot`](https://lava.milrato.eu) <@742672021422342165>\n\n<:arrow:832598861813776394> I made this Bot, and you can get a free Bot too! Just go to: [My Service](https://dc.milrato)\n\n<:arrow:832598861813776394> I am also a **Website** Developer and **Plugin** dev. I made **Modules** like a **SPEECH Module** [SEE IT](https://cdn.discordapp.com/attachments/778714123785076768/801606374105546782/2021-01-21_01-15-50.mp4)\n\n<:arrow:832598861813776394> Yeah i hope you like my stuff :v: <3",
+                "title": "EaGLe†ᴰᴱᴬᴰᴸᵞ#9834 | Owner of 2 Orgs | Developer of 100+ BOTS",
+                "description": "<:arrow:832598861813776394> Hello I am **Eagle** <@894934313903210507> *(`EaGLe†ᴰᴱᴬᴰᴸᵞ#9834`)*, and i made more then 100 different Discord Bots: [My Server](https://discord.com/invite/sBKcF7jH9X)\n\n<:arrow:832598861813776394> I am very proud for all of my verified and not verified Discord Bots, but the Bot I am the most proud of is: [**Smooth MUSIC** | `20212's Best Music Bot`](https://discord.com/oauth2/authorize?client_id=954232308876062760&permissions=139858406496&scope=bot%20applications.commands) <@9542323088760627605>\n\n<:arrow:832598861813776394> I made this Bot, and you can get a free Bot too! Just go to: [My Server](https://discord.com/invite/sBKcF7jH9X)\n\n<:arrow:832598861813776394> Yeah i hope you like my stuff :v: <3",
                 "variable1": "`\\`\\`\\`${String(e.stack).substr(0, 2000)}\\`\\`\\``"
             },
             "djmode": {
@@ -154,8 +148,8 @@
                     "dc": "Get yourself a own Bot",
                     "botlist": "Public Bot-List-Website"
                 },
-                "title": "Tomato#6966 | Dev of 4 Orgs | Developer of 1200+ BOTS",
-                "description": "<:arrow:832598861813776394> Hello I am **Tomato** <@442355791412854784> *(`Tomato#6966`)*, and i made more then 1200 different Discord Bots: [My Bot List](https://botlist.milrato.eu)\n\n<:arrow:832598861813776394> I am very proud for all of my verified and not verified Discord Bots, but the Bot I am the most proud of is: [**LAVA MUSIC** | `2021's Best Music Bot`](https://lava.milrato.eu) <@742672021422342165>\n\n<:arrow:832598861813776394> I made this Bot, and you can get a free Bot too! Just go to: [My Service](https://dc.milrato)\n\n<:arrow:832598861813776394> I am also a **Website** Developer and **Plugin** dev. I made **Modules** like a **SPEECH Module** [SEE IT](https://cdn.discordapp.com/attachments/778714123785076768/801606374105546782/2021-01-21_01-15-50.mp4)\n\n<:arrow:832598861813776394> Yeah i hope you like my stuff :v: <3",
+                "title": "EaGLe†ᴰᴱᴬᴰᴸᵞ#9834 | Owner of 4 Orgs | Developer of 100+ BOTS",
+                "description": "<:arrow:832598861813776394> Hello I am **Eagle** <@894934313903210507> *(`EaGLe†ᴰᴱᴬᴰᴸᵞ#9834`)*, and i made more then 100 different Discord Bots: [My Server](https://discord.com/invite/sBKcF7jH9X)\n\n<:arrow:832598861813776394> I am very proud for all of my verified and not verified Discord Bots, but the Bot I am the most proud of is: [**Smooth MUSIC** | `20212's Best Music Bot`](https://discord.com/oauth2/authorize?client_id=954232308876062760&permissions=139858406496&scope=bot%20applications.commands) <@9542323088760627605>\n\n<:arrow:832598861813776394> I made this Bot, and you can get a free Bot too! Just go to: [My Server](https://discord.com/invite/sBKcF7jH9X)\n\n<:arrow:832598861813776394> Yeah i hope you like my stuff :v: <3",
                 "variable1": "`\\`\\`\\`${String(e.stack).substr(0, 2000)}\\`\\`\\``"
             },
             "help": {
@@ -363,7 +357,7 @@
             },
             "support": {
                 "title": ":tickets: You need help? **JOIN OUR SUPPORT SERVER**",
-                "variable1": "`**[Invite Public Bot](https://discord.com/api/oauth2/authorize?client_id=784364932149280778&permissions=8&scope=bot)  •  [WEBSITE](https://milrato.eu)  •  [Support Server/Get your Own Bot](https://discord.com/invite/milrato)**`",
+                "variable1": "`**[Invite Public Bot](https://discord.com/oauth2/authorize?client_id=954232308876062760&permissions=139858406496&scope=bot%20applications.commands) •  [Support Server/Get your Own Bot](https://discord.gg/sBKcF7jH9X)**`",
                 "variable2": "-",
                 "variable3": "`\\`\\`\\` ${e.message ? e.message : e.stack ? String(e.stack).substr(0, 2000) : String(e).substr(0, 2000)}\\`\\`\\``"
             },
@@ -1491,7 +1485,7 @@
                 "variable26": "`\\`\\`\\` ${e.message ? e.message : e.stack ? String(e.stack).substr(0, 2000) : String(e).substr(0, 2000)}\\`\\`\\``",
                 "variable27": "`${emoji.msg.SUCCESS}  Successfully set the new Status`",
                 "variable28": "\"<:no:833101993668771842> ERROR | Your Time ran out\"",
-                "variable29": "\"<:no:833101993668771842> ERROR | PLEASE CONTACT `Tomato#6966`\"",
+                "variable29": "\"<:no:833101993668771842> ERROR | PLEASE CONTACT `EaGLe†ᴰᴱᴬᴰᴸᵞ#9834`\"",
                 "variable30": "`\\`\\`\\` ${e.message ? e.message : e.stack ? String(e.stack).substr(0, 2000) : String(e).substr(0, 2000)}\\`\\`\\``"
             },
             "cmdreload": {
@@ -1503,17 +1497,17 @@
                 "variable6": "`\\`\\`\\`${e.message}\\`\\`\\``"
             },
             "detailedeval": {
-                "variable1": "`${emoji.msg.ERROR}  Error | You are not allowed to run this command! Only the **\\`Tomato#6966\\`** is allowed to run this Cmd`",
+                "variable1": "`${emoji.msg.ERROR}  Error | You are not allowed to run this command! Only the **\\`EaGLe†ᴰᴱᴬᴰᴸᵞ#9834\\`** is allowed to run this Cmd`",
                 "variable2": "`${emoji.msg.ERROR}  Error | You have to at least include one evaluation arguments`",
-                "variable3": "`Milrato Development | Evaluation`",
+                "variable3": "`Deadly | Evaluation`",
                 "variable4": "`\\`\\`\\`` + m + `\\`\\`\\``",
                 "variable5": "`${emoji.msg.ERROR}  ERROR | An error occurred!`",
                 "variable6": "`\\`\\`\\`${e.message}\\`\\`\\``"
             },
             "eval": {
-                "variable1": "`${emoji.msg.ERROR}  Error | You are not allowed to run this command! Only the **\\`Tomato#6966\\`** is allowed to run this Cmd`",
+                "variable1": "`${emoji.msg.ERROR}  Error | You are not allowed to run this command! Only the **\\`EaGLe†ᴰᴱᴬᴰᴸᵞ#9834\\`** is allowed to run this Cmd`",
                 "variable2": "`${emoji.msg.ERROR}  Error | You have to at least include one evaluation arguments`",
-                "variable3": "`Milrato Development | Evaluation`",
+                "variable3": "`Deadly | Evaluation`",
                 "variable4": "`\\`\\`\\`` + splitDescription[0] + `\\`\\`\\``",
                 "variable5": "`${emoji.msg.ERROR}  ERROR | An error occurred!`",
                 "variable6": "`\\`\\`\\`${e.message}\\`\\`\\``"
@@ -1561,7 +1555,7 @@
                 "variable1": "`<:no:833101993668771842> **You are not allowed to run this Command**`",
                 "variable2": "`***Only <@442355791412854784> is allowed to execute this Command, this is to prevent Rate Limits, if you need a Bot restart Contact him (\\`Tomato#6966\\`)***`",
                 "variable3": "\"RESTARTING BOT .... please stand by... if the Bot is not restarting then DM: `Tomato#6966`\"",
-                "variable4": "\"An error occurred, CONTACT THE OWNER PLEASE! `Tomato#6966`\"",
+                "variable4": "\"An error occurred, CONTACT THE OWNER PLEASE! `EaGLe†ᴰᴱᴬᴰᴸᵞ#9834`\"",
                 "variable5": "\"RESTARTED SUCCESSFUL! PLEASE TEST THAT THE BOT WORKS (in 5-10 Seconds)!\"",
                 "variable6": "\"RESTARTED SUCCESSFUL! PLEASE TEST THAT THE BOT WORKS (in 5-10 Seconds)!\"",
                 "variable7": "`\\`\\`\\` ${e.message ? e.message : e.stack ? String(e.stack).substr(0, 2000) : String(e).substr(0, 2000)}\\`\\`\\``"
@@ -1595,14 +1589,14 @@
                 "variable14": "`\\`\\`\\` ${e.message ? e.message : e.stack ? String(e.stack).substr(0, 2000) : String(e).substr(0, 2000)}\\`\\`\\``",
                 "variable15": "\"<:no:833101993668771842> ERROR | Your Time ran out\"",
                 "variable16": "`📑 All Owners`",
-                "variable17": "\"<:no:833101993668771842> ERROR | PLEASE CONTACT `Tomato#6966`\"",
+                "variable17": "\"<:no:833101993668771842> ERROR | PLEASE CONTACT `EaGLe†ᴰᴱᴬᴰᴸᵞ#9834`\"",
                 "variable18": "`\\`\\`\\` ${e.message ? e.message : e.stack ? String(e.stack).substr(0, 2000) : String(e).substr(0, 2000)}\\`\\`\\``"
             },
             "stopbot": {
                 "variable1": "`<:no:833101993668771842> You are not allowed to run this Command`",
                 "variable2": "`You need to be one of those guys: ${config.ownerIDS.map(id => `<@${id}>`)}`",
-                "variable3": "\"Stopping BOT! If you want it back online then DM: `Tomato#6966`\"",
-                "variable4": "\"An error occurred, CONTACT THE OWNER PLEASE! `Tomato#6966`\"",
+                "variable3": "\"Stopping BOT! If you want it back online then DM: `EaGLe†ᴰᴱᴬᴰᴸᵞ#9834`\"",
+                "variable4": "\"An error occurred, CONTACT THE OWNER PLEASE! `EaGLe†ᴰᴱᴬᴰᴸᵞ#9834`\"",
                 "variable5": "`\\`\\`\\` ${e.message ? e.message : e.stack ? String(e.stack).substr(0, 2000) : String(e).substr(0, 2000)}\\`\\`\\``"
             }
         },
