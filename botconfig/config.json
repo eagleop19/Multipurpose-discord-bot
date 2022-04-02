@@ -5,7 +5,7 @@
         "894934313903210507"
     ],
     "fnbr": "c2838e00ed0e79724166cbaa4e1b540b180aa8976f18f381ada54d50b24b64da6e01e7703d6bdabd704366e66659c31fa2025eeaab46c2ccecd64010c8f2baa2",
-    "fortnitetracker": "NOT AVAIBLE",
+    "fortnitetracker": "e769d31f-ec9c-43a1-9bf8-c48455c96344",
     "memer_api": "JoizT7Oss2t",
     "status": {
         "text": "{prefix}help | REFLEX ESPORTS",
@@ -16,9 +16,9 @@
     "clientsettings": {
         "nodes": [
             {
-                "host": "localhost",
-                "port": 2333,
-                "password": "youshallnotpass"
+                "host": "lava.link",
+                "port": 80,
+                "password": "NitrixEXE OP"
             }
         ]
     },
