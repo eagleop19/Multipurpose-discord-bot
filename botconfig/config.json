@@ -16,9 +16,9 @@
     "clientsettings": {
         "nodes": [
             {
-                "host": "lava.link",
-                "port": 80,
-                "password": "NitrixEXE OP"
+                "host": "losingtime.dpaste.org",
+                "port": 2124,
+                "password": "SleepingOnTrains"
             }
         ]
     },
