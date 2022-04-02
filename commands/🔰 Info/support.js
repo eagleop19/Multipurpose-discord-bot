@@ -25,7 +25,7 @@ module.exports = {
           .setColor(ee.color)
           .setTitle(`SUPPORT SERVER`)
           .setDescription(`[CLICK HERE](https://discord.gg/sBKcF7jH9X)`)
-          .setFooter('REFLEX ESPORTS | powered by DEADLY', 'https://cdn.discordapp.com/avatars/942635744520974446/3956c2fc75e818fe7465b44528179827.webp')
+          .setFooter('REFLEX ESPORTS | Powered by DEADLY', 'https://cdn.discordapp.com/avatars/942635744520974446/3956c2fc75e818fe7465b44528179827.webp')
           .setURL("https://discord.gg/VNQ7Atz2wM")],
         components: allbuttons
       });
