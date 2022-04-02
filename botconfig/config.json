@@ -13,14 +13,16 @@
         "type": "PLAYING",
         "url": "https://twitch.tv/milratodiscordbot"
     },
+       },
     "clientsettings": {
         "nodes": [
             {
-                "host": "lava.link",
-                "port": 80,
-                "password": "NitrixEXE OP"
+                "host": "localhost",
+                "port": 2333,
+                "password": "youshallnotpass"
             }
-        ],
+        ]
+    },
     "spotify": {
         "clientSecret": "498f461b962443cfaf9539c610e2ea81",
         "clientID": "e6f84fbec2b44a77bf35a20c5ffa54b8"
