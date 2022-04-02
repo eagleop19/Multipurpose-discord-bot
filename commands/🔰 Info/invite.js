@@ -19,18 +19,18 @@ module.exports = {
       let user = message.mentions.users.first() || client.user;
       if(user) {
         if(!user.bot) return interaction?.reply({ephemeral: true, content: "<:no:833101993668771842> You can't Invite a Normal user! **IT MUST BE A BOT**"})
-        let button_public_invite = new MessageButton().setStyle('LINK').setLabel(handlemsg(client.la[ls].cmds.info.invite.buttons.public)).setURL("https://discord.com/api/oauth2/authorize?client_id=734513783338434591&permissions=8&scope=bot%20applications.commands")
-        let button_support_dc = new MessageButton().setStyle('LINK').setLabel(handlemsg(client.la[ls].cmds.info.invite.buttons.server)).setURL("https://discord.com/gg/milrato")
-        let button_invite = new MessageButton().setStyle('LINK').setLabel("Invite " + user.username).setURL(`https://discord.com/api/oauth2/authorize?client_id=${user.id}&permissions=8&scope=bot%20applications.commands`)
+        let button_public_invite = new MessageButton().setStyle('LINK').setLabel(handlemsg(client.la[ls].cmds.info.invite.buttons.public)).setURL("https://discord.com/oauth2/authorize?client_id=954232308876062760&permissions=139858406496&scope=bot%20applications.commands")
+        let button_support_dc = new MessageButton().setStyle('LINK').setLabel(handlemsg(client.la[ls].cmds.info.invite.buttons.server)).setURL("https://discord.gg/sBKcF7jH9X")
+        let button_invite = new MessageButton().setStyle('LINK').setLabel("Youtube").setURL(`https://youtube.com/c/REFLEXESPORTSINDIA`)
         //array of all buttons
         const allbuttons = [new MessageActionRow().addComponents([button_public_invite, button_support_dc, button_invite])]
         message.reply({ 
           embeds: [new MessageEmbed()
             .setColor(ee.color)
             .setTitle(`Invite: __**${user.tag}**__`)
-            .setDescription(`||[*Click here for an Invitelink without Slash Commands*](https://discord.com/api/oauth2/authorize?client_id=${user.id}&permissions=8&scope=bot)||`)
-            .setURL(`https://discord.com/api/oauth2/authorize?client_id=${user.id}&permissions=8&scope=bot%20applications.commands`)
-            .setFooter(client.getFooter(`${user.username} | powered by milrato.eu`, "https://imgur.com/jPItIw0.gif"))],
+            .setDescription(`||PRIVATE BOT BY DEADLY||`)
+            .setURL(`https://youtube.com/c/REFLEXESPORTSINDIA`)
+            .setFooter(client.getFooter(`${user.username} | powered by deadly`, "https://cdn.discordapp.com/attachments/958980306684248085/959388842975174697/sss.png"))],
           components: allbuttons
         });
       }
