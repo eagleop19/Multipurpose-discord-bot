@@ -88,4 +88,3 @@ module.exports = {
   * @INFO
   * Please mention him / Milrato Development, when using this Code!
   * @INFO
-*/
