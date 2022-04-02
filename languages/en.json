@@ -34,19 +34,19 @@
                     {
                         "value": "Sponsor / Support us",
                         "description": "Thanks for everything, you'll get something back!",
-                        "replymsg": "**__There are several Sponsor Options:__**\n\n> <:PAYPAL:861207258846330880> **Paypal:**\n> https://paypal.me/MilratoDevelopment\n\n> <:PATREON:861207934070816849> **Patreon:**\n> https://www.patreon.com/MilratoDevelopment?fan_landing=true\n\n> 💸 **Donate via Paysafe, Sofort or others: (1/2)**\n> https://bero-host.de/spenden/qgswlxrzgtll\n\n> 💸 **Donate via Paysafe, Sofort or others: (2/2)**\n> https://mc-host24.de/donate/tomato\n\n> **Every donator** gets the **@DONATOR Role** on:\n> https://discord.gg/milrato\n\n\n> **Every Donator** with more then **10€** Gets a **Free Bot** of his **Choice*!",
+                        "replymsg": "Not Available",
                         "emoji": "861207258846330880"
                     },
                     {
                         "value": "Partners / Sponsors",
                         "description": "We are really proud of our Sponsors and Partners!",
-                        "replymsg": "<:BeroHost:852970925695041646> Our First/Main Sponsor is **Bero-Host.de** <:BeroHost:852970925695041646>\n> <:Like:857334024087011378> **Their Website:** https://bero-host.de\n> <:Discord:787321652345438228> **Their Discord:** https://discord.bero-host.de\n> *They provide us several HIGH QUALTIY __Servers__ which we are using for our HOSTING! **CHECK THEM OUT**!*\n``` ```<:Bittmax:840370610755862529> Our Second Sponsor is **Bittmax.de** <:Bittmax:840370610755862529>\n> <:Like:857334024087011378> **Their Website:** https://bittmax.de\n> <:Discord:787321652345438228> **Their Discord:** https://discord.gg/GgjJZCyYKD\n> *They provide us several __Servers__ which we are using for our PUBLIC BOT HOSTING! **CHECK THEM OUT**!*\n``` ```**__Partners__**\n> ***We currently have `{partnercount} Partners`, which get at least 1 FREE OP BOT***\n``` ```Wanna be a Partner/Sponsor too? Contact us in our <:Discord:787321652345438228> **Discord:** https://discord.gg/milrato and open a Ticket in <#840491251278676008>",
+                        "replymsg": "**Deadly** The Communtiy Server\n>which  have many giveaway and invite rewards<:arrow:832598861813776394> THEY HAVE A MUSIC BOT TOO [SMOOTH](https://discord.com/oauth2/authorize?client_id=954232308876062760&permissions=139858406496&scope=bot%20applications.commands)\n><:arrow:832598861813776394> Thanks to them, we are able to host and make our bot\n><:arrow:832598861813776394> Our suggestion is, if you want to make your bot, then go to [Deadly](https://discord.com/invite/sBKcF7jH9X)**What they are offering:**<:arrow:832598861813776394> **>>** MUSIC BOTS , MOD BOT , MOD MAIL and MORE[**Discord Server:**](https://discord.com/invite/sBKcF7jH9X)",
                         "emoji": "866089513436315698"
                     },
                     {
                         "value": "My Bot doesnt work",
                         "description": "If your Bot is not working do this:",
-                        "replymsg": "Contact us in Milrato Development <:Discord:787321652345438228> **Discord:** https://discord.gg/milrato and open a Ticket in <#840332764603351101>\n\n***If it still responds with messages but doesn't work right, then you can try to do: `{prefix}reloadbot` / `{prefix}cmdreload [CMDNAME]`***\n\nMake sure that I have enough Permissions, as well as that the highest Role is high enough!",
+                        "replymsg": "Contact us in Deadly <:Discord:787321652345438228> **Discord:** https://discord.gg/sBKcF7jH9X and Tag <@894934313903210507>\n\n***If it still responds with messages but doesn't work right, then you can try to do: `{prefix}reloadbot` / `{prefix}cmdreload [CMDNAME]`***\n\nMake sure that I have enough Permissions, as well as that the highest Role is high enough!",
                         "emoji": "😓"
                     },
                     {
