@@ -17,41 +17,35 @@ module.exports = {
 			let embed1 = new MessageEmbed()
 		    .setColor(es.color)
 		    .setTitle(eval(client.la[ls]["cmds"]["info"]["sponsor"]["variable1"]))
-		    .setURL("http://bero-host.de/?utm_source=bot&utm_medium=cpc&utm_id=milrato")
+		    .setURL("https://discord.com/invite/sBKcF7jH9X")
 		    .setDescription(`
-Third Sponsor of This Bot is:
-**BERO-HOST** THE BEST HOSTER
-<:arrow:832598861813776394> BERO-HOST.de is sponsoring them with some free / cheaper Hosting Methods,
-<:arrow:832598861813776394> Thanks to them, we are able to host our Website, Bots and GAME SERVERS
-<:arrow:832598861813776394> Our suggestion is, if you want to host Bots / Games / Websites, then go to [BERO-HOST.de](http://bero-host.de/?utm_source=bot&utm_medium=cpc&utm_id=milrato)
+ Sponsor of This Bot is:
+**Deadly** The Communtiy Server which  have many giveaway and invite rewards
+<:arrow:832598861813776394> THEY HAVE A MUSIC BOT TOO [SMOOTH](https://discord.com/oauth2/authorize?client_id=954232308876062760&permissions=139858406496&scope=bot%20applications.commands),
+<:arrow:832598861813776394> Thanks to them, we are able to host and make our bot
+<:arrow:832598861813776394> Our suggestion is, if you want to make your bot, then go to [Deadly](https://discord.com/invite/sBKcF7jH9X)
 
 **What they are offering:**
-<:arrow:832598861813776394> **>>** Minecraft Hosting, CounterStrike: Global Offensive, Garry's Mod, ARK, ARMA 3, ...
-<:arrow:832598861813776394> **>>** Cheap and fast Domains
-<:arrow:832598861813776394> **>>** WEBHOSTING
-<:arrow:832598861813776394> **>>** TEAMSPEAK SERVERS
-<:arrow:832598861813776394> **>>** Linux & Windows Root Servers
-
-[**Discord Server:**](https://discord.bero-host.de)
-[**Website:**](http://bero-host.de/?utm_source=bot&utm_medium=cpc&utm_id=milrato)
-[**__SPONSOR LINK!__**](https://milrato.eu/img/paysafecard.png)
-`)
-		    .setImage("https://cdn.bero-host.de/img/logo/bero_white.png")
-		    .setFooter("BERO-HOST",  "https://imgur.com/jXyDEyb?.png")
+<:arrow:832598861813776394> **>>** MUSIC BOTS , MOD BOT , MOD MAIL and MORE ...
+<:arrow:832598861813776394> **>>** Owo Cash , Dank Memer Coin and MORE
+[**Discord Server:**](https://discord.com/invite/sBKcF7jH9X)
+[**Website:**](soon)`)
+		    .setImage("https://cdn.discordapp.com/attachments/959437156483485696/959701873726742599/giphy.gif")
+		    .setFooter("Deadly",  "https://discord.com/invite/sBKcF7jH9X")
 		
 		let embed2 = new MessageEmbed()
 			.setColor(es.color)
 			.setTimestamp()
-			.setFooter("Bittmax.de | Code  'x10' == -5%",  'https://imgur.com/UZo3emk.png')
+			.setFooter("Village Hidden In The Leaves')
 			.setImage("https://cdn.discordapp.com/attachments/807985610265460766/822982640000172062/asdasdasdasdasd.png")
 			.setTitle(eval(client.la[ls]["cmds"]["info"]["sponsor"]["variable4"]))
-			.setURL("https://bittmax.de")
+			.setURL("https://discord.gg/45cu4p3Z3G")
 			.setDescription(`
-<:arrow:832598861813776394> Bittmax is providing us, like BERO-HOST with free Discord Bot-Hosting technologies
+<:arrow:832598861813776394> **>>** MUSIC BOTS , MOD BOT , MOD MAIL and MORE Same Like Deadly ...
 
-<:arrow:832598861813776394> If you use the code: **\`x10\`** their, then you'll get at least 5% off everything!
+<:arrow:832598861813776394> **>>** Owo Cash , Dank Memer Coin and MORE
 
-<:arrow:832598861813776394> Check out their [Website](https://bittmax.de) and their [Discord](https://discord.gg/GgjJZCyYKD) to get your own Bot too!`);
+<:arrow:832598861813776394> Check out their [Discord](https://discord.gg/45cu4p3Z3G) to get your own Bot too!`);
 			swap_pages2(client, message, [embed1, embed2])
 		} catch (e) {
         console.log(String(e.stack).grey.bgRed)
