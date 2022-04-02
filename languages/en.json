@@ -76,7 +76,7 @@
                 },
                 "field5": {
                     "title": "<:arrow:832598861813776394> Important Links",
-                    "value": "**[Invite Link]({invitelink})・[Support Server](https://discord.gg/sBKcF7jH9X)・[YOUTUBE](https://youtube.com/c/REFLEXESPORTSINDIA)**"
+                    "value": "**[Smooth Invite Link](https://discord.com/oauth2/authorize?client_id=954232308876062760&permissions=139858406496&scope=bot%20applications.commands)・[Support Server](https://discord.gg/sBKcF7jH9X)・[YOUTUBE](https://youtube.com/c/REFLEXESPORTSINDIA)**"
                 },
                 "variable1": "`\\`\\`\\`yml\\nName: ${client.user.tag} [${client.user.id}]\\nBot Latency: ${Math.round(Date.now() - message.createdTimestamp)}ms\\nApi Latency: ${Math.round(client.ws.ping)}ms\\nRuntime: ${duration(client.uptime).join(\"︲\")}\\`\\`\\``",
                 "variable2": "`\\`\\`\\` ${e.message ? e.message : e.stack ? String(e.stack).substr(0, 2000) : String(e).substr(0, 2000)}\\`\\`\\``"
