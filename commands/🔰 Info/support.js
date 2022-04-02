@@ -23,8 +23,8 @@ module.exports = {
       message.reply({
         embeds: [new MessageEmbed()
           .setColor(ee.color)
-          .setTitle(client.la[ls].cmds.info.support.title)
-          .setDescription(eval(client.la[ls]["cmds"]["info"]["support"]["variable1"]))
+          .setTitle(`SUPPORT SERVER`)
+          .setDescription(`[CLICK HERE](https://discord.gg/sBKcF7jH9X)`)
           .setFooter('REFLEX ESPORTS | powered by DEADLY', 'https://imgur.com/jPItIw0.gif')
           .setURL("https://discord.gg/VNQ7Atz2wM")],
         components: allbuttons
